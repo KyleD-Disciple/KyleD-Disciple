@@ -1,0 +1,1 @@
+My name is kyle and this is my first project using the the Azure service. My goal is to create enough projects to become comfortable with the Azure ecosytem and get better with the cloud infrastructure.
